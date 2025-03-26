@@ -9,9 +9,9 @@
 
 ## Technologies  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)]
+[![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)]
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)  
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)  
