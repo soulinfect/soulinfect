@@ -16,3 +16,4 @@
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
