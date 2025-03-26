@@ -5,7 +5,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-soulinfect-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/soulinfect)](https://t.me/soulinfect)
 [![Discord Badge](https://img.shields.io/badge/-soulinfect-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/soulinfect)](https://discord.com/users/soulinfect)
-[![Mail.ru](https://img.shields.io/badge/Mail.ru-письмо-005FF9?style=flat-square&logo=mail.ru&logoColor=white)](mailto:soulinfect@mail.ru)
+[![Mail.ru Badge](https://img.shields.io/badge/-soulinfect@mail.ru-005FF9?style=flat-square&logo=Mail.ru&logoColor=white&link=mailto:soulinfect@mail.ru)](mailto:soulinfect@mail.ru)
 
 ## Технологии 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
