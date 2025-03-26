@@ -18,11 +18,10 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-# Текущие проекты
-**HypeAPI** - мод minecraft для работы с API различных серверов.
-**OwnWeb** - Сайт для личного использования, который будет включать в себя:
-- Страницу личных достижений 
-- Хранилище удобных ресурсов и файлов
+# Изучаю сейчас
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 # Интересующие направления
 - Backend Development (API, Microservices)
