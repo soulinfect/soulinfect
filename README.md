@@ -24,7 +24,7 @@
 - Страницу личных достижений 
 - Хранилище удобных ресурсов и файлов
 
-# Интересующиее направления разработки
-- software developing
-- data scientist
-- game modding
+# Интересующие направления
+- Backend Development (API, Microservices)
+- Data Analysis / Data Engineering
+- Game Development & Modding
